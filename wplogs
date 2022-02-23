@@ -1,0 +1,562 @@
+02-13-2022 @ 21:33:02 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.15333s
+
+02-13-2022 @ 21:33:02 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 21:40:17 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644784816,"event_id":"a318dd2a-2f84-4eb4-bf0a-9cb1034c6265","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/albero-decorativo-natalizio-in-legno-con-pendenti\/","custom_data":{"content_name":"Albero decorativo natalizio in legno con pendenti","content_ids":"[\"wc_post_id_5752\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_5752\",\"quantity\":1}]","content_category":"Oggettistica","value":"9.90","currency":"EURO"},"user_data":{"client_ip_address":"207.46.13.9","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.11942s
+
+02-13-2022 @ 21:40:17 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AGfGFXumIzb4oiV_8nrMYe3"}
+
+02-13-2022 @ 21:40:17 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644784817,"event_id":"b253a2ba-4874-4ccd-b84a-7a6ce71ef0b7","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/albero-decorativo-natalizio-in-legno\/","custom_data":{"content_name":"Albero decorativo natalizio in legno","content_ids":"[\"wc_post_id_5740\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_5740\",\"quantity\":1}]","content_category":"Oggettistica","value":"12.90","currency":"EURO"},"user_data":{"client_ip_address":"40.77.167.30","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.11324s
+
+02-13-2022 @ 21:40:17 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ajy9EBTj3ssxL2dmTcMiyra"}
+
+02-13-2022 @ 21:40:22 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644784822,"event_id":"4b2eddea-ecd7-4da9-a79a-b7b1666c1325","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/barattolo-porta-dolci-e-caramelle-in-vetro\/","custom_data":{"content_name":"Barattolo porta dolci e caramelle in vetro","content_ids":"[\"wc_post_id_5222\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_5222\",\"quantity\":1}]","content_category":"Idee per la cucina","value":"4.90","currency":"EURO"},"user_data":{"client_ip_address":"157.55.39.120","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.11871s
+
+02-13-2022 @ 21:40:22 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AFmmcaVUZrfgXLmby9daAtf"}
+
+02-13-2022 @ 21:40:44 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644784844,"event_id":"7bd6ef39-146c-45fc-b9e4-16c9f560b02a","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/piccolo-presepe-con-luce\/","custom_data":{"content_name":"piccolo presepe con luce","content_ids":"[\"wc_post_id_5988\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_5988\",\"quantity\":1}]","content_category":"Oggettistica","value":"9.90","currency":"EURO"},"user_data":{"client_ip_address":"207.46.13.82","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.1074s
+
+02-13-2022 @ 21:40:44 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AwPmnAWvyh7IFtCOsm2imT-"}
+
+02-13-2022 @ 21:41:56 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.11941s
+
+02-13-2022 @ 21:41:56 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 21:51:46 - Facebook is requesting the product feed.
+02-13-2022 @ 21:57:35 - Facebook is requesting the product feed.
+02-13-2022 @ 21:59:50 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644785990,"event_id":"0f9e1d91-38b9-4445-8a5d-ba186743bddb","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/camion-vigili-del-fuoco-in-metallo-media-misura\/","custom_data":{"content_name":"Camion vigili del fuoco in metallo, media misura","content_ids":"[\"wc_post_id_3832\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_3832\",\"quantity\":1}]","content_category":"Modellini in metallo","value":"23.50","currency":"EURO"},"user_data":{"client_ip_address":"87.7.117.163","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/98.0.4758.82 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.26263s
+
+02-13-2022 @ 21:59:50 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ABUVY4WLQxAinTC-n0L-typ"}
+
+02-13-2022 @ 22:02:25 - Facebook is requesting the product feed.
+02-13-2022 @ 22:04:52 - Facebook is requesting the product feed.
+02-13-2022 @ 22:05:00 - Facebook is requesting the product feed.
+02-13-2022 @ 22:05:19 - Facebook is requesting the product feed.
+02-13-2022 @ 22:06:14 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=l039angolorosa-cagliari-5fb9677aba0ea
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.16268s
+
+02-13-2022 @ 22:06:14 - Response
+code: 200
+message: OK
+body: {"business":{"name":"L'angolo rosa - Cagliari"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+02-13-2022 @ 22:06:14 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=l039angolorosa-cagliari-5fb9677aba0ea
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.16662s
+
+02-13-2022 @ 22:06:14 - Response
+code: 200
+message: OK
+body: {"business":{"name":"L'angolo rosa - Cagliari"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+02-13-2022 @ 22:06:41 - Facebook is requesting the product feed.
+02-13-2022 @ 22:06:50 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644786410,"event_id":"c4ebcdc2-01ee-4e8d-a069-6fb1422e85d2","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/mappamondo-grigio-con-supporto-in-metallo\/","custom_data":{"content_name":"Mappamondo grigio con supporto in metallo","content_ids":"[\"wc_post_id_3518\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_3518\",\"quantity\":1}]","content_category":"Oggettistica","value":"39.90","currency":"EURO"},"user_data":{"client_ip_address":"2a03:2880:31ff:6::face:b00c","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.1673s
+
+02-13-2022 @ 22:06:50 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2xHGHfzaBB6hU0IhYSc48Z"}
+
+02-13-2022 @ 22:06:51 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644786411,"event_id":"854b9eae-391d-4697-80de-ddf64ff6598e","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/scatola-da-tea-in-legno-e-metallo\/?attribute_tipologia=B","custom_data":{"content_name":"Scatola da tea in legno e metallo.","content_ids":"[\"wc_post_id_5198\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_5198\",\"quantity\":1}]","content_category":"Offerte Speciali","value":"11.50","currency":"EURO"},"user_data":{"client_ip_address":"2a03:2880:31ff:1b::face:b00c","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.1534s
+
+02-13-2022 @ 22:06:51 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AXj3lk133JeZcLaGT4-zmkg"}
+
+02-13-2022 @ 22:10:43 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644786643,"event_id":"6aab8851-b6ef-4903-aa77-51fd07253bd8","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/gnomo-natalizio-rosso-e-nero\/","custom_data":{"content_name":"Gnomo natalizio rosso e nero","content_ids":"[\"wc_post_id_6394\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_6394\",\"quantity\":1}]","content_category":"Oggettistica","value":"14.50","currency":"EURO"},"user_data":{"client_ip_address":"40.77.167.30","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.16398s
+
+02-13-2022 @ 22:10:43 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AsK3nlGUduBfNoMjK7PDFKt"}
+
+02-13-2022 @ 22:33:01 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.12751s
+
+02-13-2022 @ 22:33:01 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 22:33:17 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.1568s
+
+02-13-2022 @ 22:33:17 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 22:35:48 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644788148,"event_id":"1288876a-9aab-470e-a502-72af12d214e5","event_source_url":"https:\/\/www.langolorosacagliari.com\/product-category\/oggettistica\/","custom_data":{"content_name":"Oggettistica","content_category":"Decorazioni natalizie, Oggettistica","content_ids":"[\"wc_post_id_5755\",\"wc_post_id_5740\",\"wc_post_id_5743\",\"wc_post_id_5746\",\"wc_post_id_5752\",\"wc_post_id_5813\",\"wc_post_id_5896\",\"wc_post_id_5457\",\"wc_post_id_3670\",\"wc_post_id_4830\"]","content_type":"product_group","contents":[{"id":"wc_post_id_5755","quantity":1},{"id":"wc_post_id_5740","quantity":1},{"id":"wc_post_id_5743","quantity":1},{"id":"wc_post_id_5746","quantity":1},{"id":"wc_post_id_5752","quantity":1},{"id":"wc_post_id_5813","quantity":1},{"id":"wc_post_id_5896","quantity":1},{"id":"wc_post_id_5457","quantity":1},{"id":"wc_post_id_3670","quantity":1},{"id":"wc_post_id_4830","quantity":1},{"id":"wc_post_id_4569","quantity":1},{"id":"wc_post_id_5969","quantity":1}]},"user_data":{"client_ip_address":"66.249.66.207","client_user_agent":"Mozilla\/5.0 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.14986s
+
+02-13-2022 @ 22:35:48 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AxrqNIrzxYM74aclzhz5iOO"}
+
+02-13-2022 @ 22:38:26 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644788306,"event_id":"3689306d-abe8-4074-9c3d-b4619035f6d8","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/mappamondo-astronomico-nero-su-base-in-legno\/","custom_data":{"content_name":"Mappamondo astronomico nero su base in legno","content_ids":"[\"wc_post_id_6549\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_6549\",\"quantity\":1}]","content_category":"Oggettistica","value":"32.50","currency":"EURO"},"user_data":{"client_ip_address":"66.249.66.211","client_user_agent":"Mozilla\/5.0 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.16872s
+
+02-13-2022 @ 22:38:26 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ApfA7GkzLwPNDnp9g0wE85Z"}
+
+02-13-2022 @ 22:38:46 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644788326,"event_id":"70d9917a-e837-4c74-a63e-31fe4d409c33","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/gnomo-fermaporta-natalizio-bianco-e-grigio\/?add-to-cart=5702","custom_data":{"content_ids":"[\"wc_post_id_5702\"]","content_name":"[\"Palla di neve con presepe\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_5702\",\"quantity\":1}]","value":"14.00","currency":"EURO"},"user_data":{"client_ip_address":"157.55.39.120","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.15154s
+
+02-13-2022 @ 22:38:46 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ap18RC5yQe_Uw2G_dqhbEc4"}
+
+02-13-2022 @ 22:38:47 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644788327,"event_id":"1c9770da-6303-4353-88c0-84839884d8bc","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/gnomo-fermaporta-natalizio-bianco-e-grigio\/?add-to-cart=5702","custom_data":{"content_name":"Gnomo fermaporta Natalizio bianco e grigio","content_ids":"[\"wc_post_id_5861\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_5861\",\"quantity\":1}]","content_category":"Oggettistica","value":"19.50","currency":"EURO"},"user_data":{"client_ip_address":"157.55.39.120","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.14784s
+
+02-13-2022 @ 22:38:47 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2pXb73eltoM39aYixf_z9j"}
+
+02-13-2022 @ 22:39:19 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/me
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.09991s
+
+02-13-2022 @ 22:39:19 - Response
+code: 200
+message: OK
+body: {"name":"WooCommerce Integration System User","id":"102385738666470"}
+
+02-13-2022 @ 22:39:20 - Request
+method: DELETE
+uri: https://graph.facebook.com/v11.0/102385738666470/permissions/manage_business_extension
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 1.01247s
+
+02-13-2022 @ 22:39:20 - Response
+code: 200
+message: OK
+body: {"success":true}
+
+02-13-2022 @ 22:39:20 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=l039angolorosa-cagliari-5fb9677aba0ea
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.12543s
+
+02-13-2022 @ 22:39:20 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"(#33) An FBE installation does not exist for the business with ID l039angolorosa-cagliari-5fb9677aba0ea or you do not have permission to see it","type":"OAuthException","code":33,"fbtrace_id":"A72HTrEar4YcfTaAOe7XqTt"}}
+
+02-13-2022 @ 22:39:20 - Could not refresh business configuration. OAuthException: (#33) An FBE installation does not exist for the business with ID l039angolorosa-cagliari-5fb9677aba0ea or you do not have permission to see it
+02-13-2022 @ 22:47:29 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business/fbe_installs?fbe_external_business_id=l039angolorosa-cagliari-5fb9677aba0ea
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.3572s
+
+02-13-2022 @ 22:47:29 - Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"428798581455140","commerce_merchant_settings_id":"876308783105938","onsite_eligible":false,"pixel_id":"817427672368292","profiles":["1712397072351040"],"ad_account_id":"0","catalog_id":"366877397948019","pages":["1712397072351040"],"token_type":"User"}]}
+
+02-13-2022 @ 22:47:29 - Retrieving page access token
+02-13-2022 @ 22:47:33 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.17361s
+
+02-13-2022 @ 22:47:33 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 22:47:42 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.12343s
+
+02-13-2022 @ 22:47:42 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 22:50:38 - Facebook is requesting the product feed.
+02-13-2022 @ 22:59:05 - Facebook is requesting the product feed.
+02-13-2022 @ 23:00:59 - Facebook is requesting the product feed.
+02-13-2022 @ 23:04:21 - Facebook is requesting the product feed.
+02-13-2022 @ 23:06:36 - Facebook is requesting the product feed.
+02-13-2022 @ 23:08:09 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/817427672368292/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644790089,"event_id":"7d519ae8-8c5f-421c-ae46-dc151b2b47e5","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/citroen-2-cavalli-natalizia-in-metallo\/?attribute_tipologia=A","custom_data":{"content_name":"Citroen 2 cavalli natalizia in metallo","content_ids":"[\"wc_post_id_5897\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_5897\",\"quantity\":1}]","content_category":"Modellini in metallo","value":"15.50","currency":"EURO"},"user_data":{"client_ip_address":"2a03:2880:22ff:78::face:b00c","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.21552s
+
+02-13-2022 @ 23:08:09 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AxMBuNSjCwX0qKKfpyJxIWS"}
+
+02-13-2022 @ 23:08:11 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/817427672368292/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644790091,"event_id":"748434cc-701e-4966-b9eb-2f9425000af2","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/decorazione-da-parete-in-metallo-vespa-piaggio\/?attribute_tipologia=A","custom_data":{"content_name":"Decorazione da parete in metallo Vespa Piaggio","content_ids":"[\"wc_post_id_5641\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_5641\",\"quantity\":1}]","content_category":"Quadri in metallo","value":"75.00","currency":"EURO"},"user_data":{"client_ip_address":"2a03:2880:23ff:17::face:b00c","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.14694s
+
+02-13-2022 @ 23:08:11 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A3jygg4pTumWJEylcWMjV4w"}
+
+02-13-2022 @ 23:09:16 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/817427672368292/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644790156,"event_id":"e4b0c860-d10f-4271-ba7d-e7d2b3fa32c1","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/bolla-paesaggio-media-grandezza\/?add-to-cart=5599","custom_data":{"content_name":"Bolla paesaggio media grandezza","content_ids":"[\"wc_post_id_5969\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_5969\",\"quantity\":1}]","content_category":"Oggettistica","value":"8.00","currency":"EURO"},"user_data":{"client_ip_address":"13.66.139.0","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.14357s
+
+02-13-2022 @ 23:09:16 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AH1h-0s8q-9XY31Hmt1FiqH"}
+
+02-13-2022 @ 23:12:44 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/817427672368292/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644790364,"event_id":"d3a9c1a1-c02d-46cd-9737-6d3b19d6601a","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/scatola-libro-in-mdf-mappa-antichizzata\/","custom_data":{"content_name":"Scatola libro in mdf mappa antichizzata","content_ids":"[\"wc_post_id_4302\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_4302\",\"quantity\":1}]","content_category":"Scatole e Bauli","value":"13.00","currency":"EURO"},"user_data":{"client_ip_address":"207.46.13.82","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.1119s
+
+02-13-2022 @ 23:12:44 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Anqnnoty6aUHwiTnVFlMD2p"}
+
+02-13-2022 @ 23:14:09 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/817427672368292/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644790448,"event_id":"e07c9d33-54de-4b4b-9da8-fc07837f6aa9","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/lanterna-in-legno-con-luci-a-led\/","custom_data":{"content_name":"Lanterna in legno con luci a led","content_ids":"[\"wc_post_id_5376\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_5376\",\"quantity\":1}]","content_category":"Decorazioni mare","value":"13.90","currency":"EURO"},"user_data":{"client_ip_address":"66.249.66.209","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/98.0.4758.80 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.30699s
+
+02-13-2022 @ 23:14:09 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AskZrRU-G-s0nenPtZYLcpP"}
+
+02-13-2022 @ 23:15:29 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.11316s
+
+02-13-2022 @ 23:15:29 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 23:29:53 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.12571s
+
+02-13-2022 @ 23:29:53 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 23:31:10 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/me
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.11828s
+
+02-13-2022 @ 23:31:10 - Response
+code: 200
+message: OK
+body: {"name":"WooCommerce Integration System User","id":"102385738666470"}
+
+02-13-2022 @ 23:31:11 - Request
+method: DELETE
+uri: https://graph.facebook.com/v11.0/102385738666470/permissions/manage_business_extension
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 1.10039s
+
+02-13-2022 @ 23:31:11 - Response
+code: 200
+message: OK
+body: {"success":true}
+
+02-13-2022 @ 23:33:17 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business/fbe_installs?fbe_external_business_id=l039angolorosa-cagliari-5fb9677aba0ea
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.26889s
+
+02-13-2022 @ 23:33:17 - Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"428798581455140","commerce_merchant_settings_id":"876308783105938","onsite_eligible":false,"pixel_id":"407979230232896","profiles":["1712397072351040","17841404703233006"],"ad_account_id":"0","catalog_id":"366877397948019","pages":["1712397072351040"],"instagram_profiles":["17841404703233006"],"ig_shop":{"status":"NOT_SUBMITTED"},"token_type":"User"}]}
+
+02-13-2022 @ 23:33:17 - Retrieving page access token
+02-13-2022 @ 23:33:20 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=l039angolorosa-cagliari-5fb9677aba0ea
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.11136s
+
+02-13-2022 @ 23:33:20 - Response
+code: 200
+message: OK
+body: {"business":{"name":"L'angolo rosa - Cagliari"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+02-13-2022 @ 23:33:21 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/366877397948019/items_batch
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"allow_upsert":true,"requests":[{"method":"UPDATE","data":{"title":"Fiat 500 porta foto in metallo, media grandezza","description":"Riproduzione in metallo della Fiat 500, disponibile in 3 differenti colori: rossa, gialla ed rosa. \n \nL'articolo \u00e8 artigianale e dipinto a mano. \n \nLa particolarit\u00e0 dell'oggetto \u00e8 che, aprendo il tettuccio, la macchina diventer\u00e0 un grazioso porta-foto. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo e del vintage. \n \nMisure: cm 19 * 9 * 13 \n \nCi trovate nel nostro store a Cagliari oppure visitate il nostro sito internet, in cui troverete tanti altri prodotti da abbinare.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500.jpg","additional_image_link":["https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500rosa.png"],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-porta-foto-in-metallo-media-grandezza\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"19.9 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"19.9 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3369","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3371"}},{"method":"UPDATE","data":{"title":"Fiat 500 L in metallo misura grande","description":"Bellissima riproduzione in metallo della mitica Fiat 500L, disponibile in 3 differenti colori: rossa, gialla ed azzurra. \n \nLa particolarit\u00e0 di questo oggetto \u00e8 che troverete sul cofano anteriore, nei modelli giallo ed azzurro , la ruota di scorta e la bandiera francese riprodotta in metallo su tutta la carrozzeria. Inoltre sul tettuccio potrete notare un portapacchi con, al suo interno, delle valigie. \n \nNel modello rosso invece sul portapacchi \u00e8 riprodotta una bicicletta. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo. \n \nMisure: cm 32 x 15 x 20 \n \nCi trovate nel nostro store di Cagliari oppure visitate il nostro sito web per altri prodotti simili.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/10\/500GRANDE.jpg","additional_image_link":["https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500portapacchi.png"],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-l-in-metallo-misura-grande\/?attribute_tipologia=C","brand":"L\u2019angolo rosa - Cagliari","price":"33.5 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"33.5 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3364","condition":"new","additional_variant_attribute":"tipologia:C","id":"wc_post_id_3368"}},{"method":"UPDATE","data":{"title":"Fiat 500 L in metallo misura grande","description":"Bellissima riproduzione in metallo della mitica Fiat 500L, disponibile in 3 differenti colori: rossa, gialla ed azzurra. \n \nLa particolarit\u00e0 di questo oggetto \u00e8 che troverete sul cofano anteriore, nei modelli giallo ed azzurro , la ruota di scorta e la bandiera francese riprodotta in metallo su tutta la carrozzeria. Inoltre sul tettuccio potrete notare un portapacchi con, al suo interno, delle valigie. \n \nNel modello rosso invece sul portapacchi \u00e8 riprodotta una bicicletta. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo. \n \nMisure: cm 32 x 15 x 20 \n \nCi trovate nel nostro store di Cagliari oppure visitate il nostro sito web per altri prodotti simili.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/10\/500GRANDE.jpg","additional_image_link":["https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500portapacchi.png"],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-l-in-metallo-misura-grande\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"33.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"33.5 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3364","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_3367"}},{"method":"UPDATE","data":{"title":"Fiat 500 L in metallo misura grande","description":"Bellissima riproduzione in metallo della mitica Fiat 500L, disponibile in 3 differenti colori: rossa, gialla ed azzurra. \n \nLa particolarit\u00e0 di questo oggetto \u00e8 che troverete sul cofano anteriore, nei modelli giallo ed azzurro , la ruota di scorta e la bandiera francese riprodotta in metallo su tutta la carrozzeria. Inoltre sul tettuccio potrete notare un portapacchi con, al suo interno, delle valigie. \n \nNel modello rosso invece sul portapacchi \u00e8 riprodotta una bicicletta. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo. \n \nMisure: cm 32 x 15 x 20 \n \nCi trovate nel nostro store di Cagliari oppure visitate il nostro sito web per altri prodotti simili.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/10\/500GRANDE.jpg","additional_image_link":["https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500portapacchi.png"],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-l-in-metallo-misura-grande\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"33.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"33.5 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3364","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3366"}},{"method":"UPDATE","data":{"title":"Volkswagen T1 natalizio","description":"Bellissima riproduzione natalizia in metallo del Volkswagen T1 in due differenti colori: rosso e verde. \nIl modellino \u00e8 artigianale ed \u00e8 dipinto a mano, curato in ogni particolare e con l'albero di Natale posto sul tetto. \nDonerete un tocco vintage e natalizio alla vostra casa, ideale da esporre su una libreria, mensola, camino o libreria. \nBen si adatta agli ambienti industrial e vintage, ideale per chi ama il modellismo e collezionismo. \nMisure: cm 26 x 12 x 19 \nCi trovate a Cagliari oppure vi consigliamo di visitare la nostra sezione apposita dove troverete tante altre idee https:\/\/www.langolorosacagliari.com\/product-category\/decorazioni-natalizie\/","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/t1.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/volkswagen-t1-natalizio\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"29.9 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"29.9 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3337","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3341"}},{"method":"UPDATE","data":{"title":"Volkswagen T1 natalizio","description":"Bellissima riproduzione natalizia in metallo del Volkswagen T1 in due differenti colori: rosso e verde. \nIl modellino \u00e8 artigianale ed \u00e8 dipinto a mano, curato in ogni particolare e con l'albero di Natale posto sul tetto. \nDonerete un tocco vintage e natalizio alla vostra casa, ideale da esporre su una libreria, mensola, camino o libreria. \nBen si adatta agli ambienti industrial e vintage, ideale per chi ama il modellismo e collezionismo. \nMisure: cm 26 x 12 x 19 \nCi trovate a Cagliari oppure vi consigliamo di visitare la nostra sezione apposita dove troverete tante altre idee https:\/\/www.langolorosacagliari.com\/product-category\/decorazioni-natalizie\/","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/t1.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/volkswagen-t1-natalizio\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"29.9 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"29.9 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3337","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_3340"}},{"method":"UPDATE","data":{"title":"Volkswagen Maggiolone natalizio in metallo","description":"Bellissima e graziosa riproduzione in metallo del mitico Maggiolone!!!! \n \nIl modellino Volkswagen \u00e8 prodotto artigianalmente ed \u00e8 dipinto a mano, lo potete trovare in due differenti colorazioni: rosso e verde! \n \nDonerete un tocco magico alla vostra casa con questa bellissima decorazione, ideale da esporre sopra ad una libreria, ad un camino o su una mensola. \n \nFantastica idea regalo per gli amanti del collezionismo e del modellismo in metallo! \n \nCi trovate a Cagliari oppure visitate il nostro sito web dove troverete tante altre idee\u00a0https:\/\/www.langolorosacagliari.com\/product-category\/modellismo\/ \n \nMisure: cm 14.5 * 6.5 * 8.5","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/maggio.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/volkswagen-maggiolone-natalizio-in-metallo\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"15.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"15.5 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3332","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_3334"}},{"method":"UPDATE","data":{"title":"Volkswagen Maggiolone natalizio in metallo","description":"Bellissima e graziosa riproduzione in metallo del mitico Maggiolone!!!! \n \nIl modellino Volkswagen \u00e8 prodotto artigianalmente ed \u00e8 dipinto a mano, lo potete trovare in due differenti colorazioni: rosso e verde! \n \nDonerete un tocco magico alla vostra casa con questa bellissima decorazione, ideale da esporre sopra ad una libreria, ad un camino o su una mensola. \n \nFantastica idea regalo per gli amanti del collezionismo e del modellismo in metallo! \n \nCi trovate a Cagliari oppure visitate il nostro sito web dove troverete tante altre idee\u00a0https:\/\/www.langolorosacagliari.com\/product-category\/modellismo\/ \n \nMisure: cm 14.5 * 6.5 * 8.5","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/maggio.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/volkswagen-maggiolone-natalizio-in-metallo\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"15.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"15.5 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3332","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3333"}},{"method":"UPDATE","data":{"title":"Volkswagen t1 natalizio in metallo","description":"Bellissima e graziosa riproduzione del Volkswagen t1\u00a0 natalizia in metallo, disponibile in due differenti colori: rosso e verde. \n \nIl modellino \u00e8 riprodotto artigianalmente ed \u00e8 dipinto a mano, sul tetto troverete in miniatura gli alberi di Natale. \n \nCon questo oggetto arrederete il vostro spazio natalizio con stile e design, ideale da esporre su una libreria, su un camino o su una mensola. \n \nVi consigliamo di visitare il nostro sito web dove troverete altri prodotti da abbinare\u00a0https:\/\/www.langolorosacagliari.com\/product-category\/modellismo\/ \n \nFantastica idea regalo per gli amanti del collezionismo e modellismo in metallo \n \nMisure: cm 17 * 7 * 10.5","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/volkswagenmedioM.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/volkswagen-t1-natalizio-in-metallo\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"16.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"16.5 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3253","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_3257"}},{"method":"UPDATE","data":{"title":"Volkswagen t1 natalizio in metallo","description":"Bellissima e graziosa riproduzione del Volkswagen t1\u00a0 natalizia in metallo, disponibile in due differenti colori: rosso e verde. \n \nIl modellino \u00e8 riprodotto artigianalmente ed \u00e8 dipinto a mano, sul tetto troverete in miniatura gli alberi di Natale. \n \nCon questo oggetto arrederete il vostro spazio natalizio con stile e design, ideale da esporre su una libreria, su un camino o su una mensola. \n \nVi consigliamo di visitare il nostro sito web dove troverete altri prodotti da abbinare\u00a0https:\/\/www.langolorosacagliari.com\/product-category\/modellismo\/ \n \nFantastica idea regalo per gli amanti del collezionismo e modellismo in metallo \n \nMisure: cm 17 * 7 * 10.5","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/volkswagenmedioM.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/volkswagen-t1-natalizio-in-metallo\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"16.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"16.5 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3253","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3256"}},{"method":"UPDATE","data":{"title":"Fiat 500 in metallo, media grandezza","description":"Riproduzione in metallo della Fiat 500, disponibile in 4 differenti colori: rossa, bianca, blu e gialla. \n \nL'articolo \u00e8 artigianale e dipinto a mano. \n \nLa particolarit\u00e0 dell'oggetto \u00e8 che troverete sul tetto due tavole da surf col salvagente. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo. \n \nMisure: cm 15.7 * 8 * 8.5 \n \nCi trovate nel nostro store a Cagliari oppure visitate il nostro sito internet, in cui troverete tanti altri prodotti da abbinare.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500mrdia.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-in-metallo-media-grandezza\/?attribute_tipologia=D","brand":"L\u2019angolo rosa - Cagliari","price":"15 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"15 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3205","condition":"new","additional_variant_attribute":"tipologia:D","id":"wc_post_id_3211"}},{"method":"UPDATE","data":{"title":"Fiat 500 in metallo, media grandezza","description":"Riproduzione in metallo della Fiat 500, disponibile in 4 differenti colori: rossa, bianca, blu e gialla. \n \nL'articolo \u00e8 artigianale e dipinto a mano. \n \nLa particolarit\u00e0 dell'oggetto \u00e8 che troverete sul tetto due tavole da surf col salvagente. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo. \n \nMisure: cm 15.7 * 8 * 8.5 \n \nCi trovate nel nostro store a Cagliari oppure visitate il nostro sito internet, in cui troverete tanti altri prodotti da abbinare.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500mrdia.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-in-metallo-media-grandezza\/?attribute_tipologia=C","brand":"L\u2019angolo rosa - Cagliari","price":"15 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"15 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3205","condition":"new","additional_variant_attribute":"tipologia:C","id":"wc_post_id_3210"}},{"method":"UPDATE","data":{"title":"Fiat 500 in metallo, media grandezza","description":"Riproduzione in metallo della Fiat 500, disponibile in 4 differenti colori: rossa, bianca, blu e gialla. \n \nL'articolo \u00e8 artigianale e dipinto a mano. \n \nLa particolarit\u00e0 dell'oggetto \u00e8 che troverete sul tetto due tavole da surf col salvagente. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo. \n \nMisure: cm 15.7 * 8 * 8.5 \n \nCi trovate nel nostro store a Cagliari oppure visitate il nostro sito internet, in cui troverete tanti altri prodotti da abbinare.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500mrdia.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-in-metallo-media-grandezza\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"15 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"15 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3205","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_3209"}},{"method":"UPDATE","data":{"title":"Fiat 500 in metallo, media grandezza","description":"Riproduzione in metallo della Fiat 500, disponibile in 4 differenti colori: rossa, bianca, blu e gialla. \n \nL'articolo \u00e8 artigianale e dipinto a mano. \n \nLa particolarit\u00e0 dell'oggetto \u00e8 che troverete sul tetto due tavole da surf col salvagente. \n \nQuesto modellino \u00e8 adatto ad ogni tipo di ambiente, doner\u00e0 alla vostra casa un tocco di originalit\u00e0\u00a0 e di stile. \n \nOttima idea regalo per gli amanti del modellismo. \n \nMisure: cm 15.7 * 8 * 8.5 \n \nCi trovate nel nostro store a Cagliari oppure visitate il nostro sito internet, in cui troverete tanti altri prodotti da abbinare.","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/500mrdia.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/fiat-500-in-metallo-media-grandezza\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"15 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"15 EURO","google_product_category":"3551","item_group_id":"wc_post_id_3205","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3208"}},{"method":"UPDATE","data":{"title":"Manichino portacollane con base in legno","description":"Fantastici manichini portacollane con base in legno e busto in resina, i ganci sono in metallo e sono 4. \n \nDisponibili in 3 differenti colori azzurro, giallo e rosa. \n \nPotete notare che, in tutti i modelli, la gonna ha la parte finale di colore grigio, idem il cappellino con il fiocchetto nero su di esso. \n \nI manichini potete utilizzarli come portacollane, porta-anelli, bracciali, e per tutti i gioielli che avete. \n \nsi pu\u00f2 utilizzare come complemento d'arredo sopra ad un camino, sopra ad una cassettiera, ad una console... donerete un tocco magico!!","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/portacollane.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/manichino-portacollane-con-base-in-legno\/?attribute_tipologia=C","brand":"L\u2019angolo rosa - Cagliari","price":"14.9 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"14.9 EURO","item_group_id":"wc_post_id_3183","condition":"new","additional_variant_attribute":"tipologia:C","id":"wc_post_id_3197"}},{"method":"UPDATE","data":{"title":"Manichino portacollane con base in legno","description":"Fantastici manichini portacollane con base in legno e busto in resina, i ganci sono in metallo e sono 4. \n \nDisponibili in 3 differenti colori azzurro, giallo e rosa. \n \nPotete notare che, in tutti i modelli, la gonna ha la parte finale di colore grigio, idem il cappellino con il fiocchetto nero su di esso. \n \nI manichini potete utilizzarli come portacollane, porta-anelli, bracciali, e per tutti i gioielli che avete. \n \nsi pu\u00f2 utilizzare come complemento d'arredo sopra ad un camino, sopra ad una cassettiera, ad una console... donerete un tocco magico!!","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/portacollane.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/manichino-portacollane-con-base-in-legno\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"14.9 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"14.9 EURO","item_group_id":"wc_post_id_3183","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_3196"}},{"method":"UPDATE","data":{"title":"Manichino portacollane con base in legno","description":"Fantastici manichini portacollane con base in legno e busto in resina, i ganci sono in metallo e sono 4. \n \nDisponibili in 3 differenti colori azzurro, giallo e rosa. \n \nPotete notare che, in tutti i modelli, la gonna ha la parte finale di colore grigio, idem il cappellino con il fiocchetto nero su di esso. \n \nI manichini potete utilizzarli come portacollane, porta-anelli, bracciali, e per tutti i gioielli che avete. \n \nsi pu\u00f2 utilizzare come complemento d'arredo sopra ad un camino, sopra ad una cassettiera, ad una console... donerete un tocco magico!!","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/portacollane.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/manichino-portacollane-con-base-in-legno\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"14.9 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"14.9 EURO","item_group_id":"wc_post_id_3183","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3195"}},{"method":"UPDATE","data":{"title":"Vespa natalizia in latta","description":"Riproduzione Vespa natalizia in latta, disponibile in due differenti modelli e colorazioni: bianca e rossa. \n \nQuesto modellino, in latta, \u00e8 l'ideale per essere esposto sopra un camino, su una libreria, su una mensola e vi dar\u00e0 un tocco magico e festoso. \n \nIl Natale sar\u00e0 sempre pi\u00f9 caldo \n \nMisure: cm 17.5 * 7 * 15.5","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/vespanatale.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/vespa-natalizia-in-latta\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"16.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"16.5 EURO","google_product_category":"3590","item_group_id":"wc_post_id_3153","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_3156"}},{"method":"UPDATE","data":{"title":"Vespa natalizia in latta","description":"Riproduzione Vespa natalizia in latta, disponibile in due differenti modelli e colorazioni: bianca e rossa. \n \nQuesto modellino, in latta, \u00e8 l'ideale per essere esposto sopra un camino, su una libreria, su una mensola e vi dar\u00e0 un tocco magico e festoso. \n \nIl Natale sar\u00e0 sempre pi\u00f9 caldo \n \nMisure: cm 17.5 * 7 * 15.5","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/11\/vespanatale.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/vespa-natalizia-in-latta\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"16.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"16.5 EURO","google_product_category":"3590","item_group_id":"wc_post_id_3153","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_3155"}},{"method":"UPDATE","data":{"title":"Attaccapanni in legno","description":"Attaccapanni in legno, disponibile in due differenti modelli. \n \nMisure: cm 60 * 4 * 28","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/10\/attaccapanni1.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/attaccapanni-in-legno\/?attribute_tipologia=B","brand":"L\u2019angolo rosa - Cagliari","price":"13.5 EURO","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"13.5 EURO","item_group_id":"wc_post_id_2926","condition":"new","additional_variant_attribute":"tipologia:B","id":"wc_post_id_2931"}},{"method":"UPDATE","data":{"title":"Attaccapanni in legno","description":"Attaccapanni in legno, disponibile in due differenti modelli. \n \nMisure: cm 60 * 4 * 28","image_link":"https:\/\/www.langolorosacagliari.com\/wp-content\/uploads\/2020\/10\/attaccapanni1.jpg","additional_image_link":[],"link":"https:\/\/www.langolorosacagliari.com\/prodotto\/attaccapanni-in-legno\/?attribute_tipologia=A","brand":"L\u2019angolo rosa - Cagliari","price":"13.5 EURO","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"13.5 EURO","item_group_id":"wc_post_id_2926","condition":"new","additional_variant_attribute":"tipologia:A","id":"wc_post_id_2929"}}],"item_type":"PRODUCT_ITEM"}
+duration: 0.16784s
+
+02-13-2022 @ 23:33:21 - Response
+code: 200
+message: OK
+body: {"validation_status":[{"retailer_id":"wc_post_id_3371","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3368","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3367","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3366","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3341","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3340","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3334","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3333","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3257","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3256","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3211","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3210","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3209","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3208","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3197","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3196","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3195","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3156","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_3155","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_2931","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]},{"retailer_id":"wc_post_id_2929","errors":[{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."},{"message":"Se includi la valuta, usa il codice valuta standard ISO 4217."}]}]}
+
+02-13-2022 @ 23:33:22 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/366877397948019?fields=name
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.1199s
+
+02-13-2022 @ 23:33:22 - Response
+code: 200
+message: OK
+body: {"name":"L'angolo rosa - Cagliari - Catalogo sito","id":"366877397948019"}
+
+02-13-2022 @ 23:36:40 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644791799,"event_id":"255f2441-9c52-4310-a8de-810d04ae67ca","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/casa-natalizia-in-legno-con-luce\/","custom_data":{"content_name":"Casa natalizia in legno con luce","content_ids":"[\"wc_post_id_6111\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_6111\",\"quantity\":1}]","content_category":"Oggettistica","value":"13.50","currency":"EURO"},"user_data":{"client_ip_address":"157.55.39.200","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.11958s
+
+02-13-2022 @ 23:36:40 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AcW2FlHTxvQv4a9Aimm4dAa"}
+
+02-13-2022 @ 23:45:26 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644792326,"event_id":"2993daa4-1672-4df2-91cf-57774027d855","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/carillon-decorativo-natalizio-in-legno-con-giostra-2\/?add-to-cart=5734","custom_data":{"content_ids":"[\"wc_post_id_5734\"]","content_name":"[\"Decorazione natalizia in legno\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_5734\",\"quantity\":1}]","value":"8.90","currency":"EURO"},"user_data":{"client_ip_address":"207.46.13.82","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.11976s
+
+02-13-2022 @ 23:45:26 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AEzdUgSKzcwOYIv28BNKTAt"}
+
+02-13-2022 @ 23:45:28 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644792328,"event_id":"5694ecd3-5180-485b-8717-89e62de1df05","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/carillon-decorativo-natalizio-in-legno-con-giostra-2\/?add-to-cart=5734","custom_data":{"content_name":"Carillon decorativo natalizio in legno con giostra","content_ids":"[\"wc_post_id_5770\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_5770\",\"quantity\":1}]","content_category":"Oggettistica","value":"42.50","currency":"EURO"},"user_data":{"client_ip_address":"207.46.13.82","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.10187s
+
+02-13-2022 @ 23:45:28 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AaoXEBo3DBUXUw0PY00ewD1"}
+
+02-13-2022 @ 23:51:43 - Facebook is requesting the product feed.
+02-13-2022 @ 23:57:35 - Facebook is requesting the product feed.
+02-14-2022 @ 00:02:17 - Facebook is requesting the product feed.
+02-14-2022 @ 00:05:43 - Facebook is requesting the product feed.
+02-14-2022 @ 00:06:54 - Facebook is requesting the product feed.
+02-14-2022 @ 00:33:14 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644795194,"event_id":"d3ef72b8-0db7-4b47-ad8e-a1e42a6fef46","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/scritta-decorativa-in-legno-love-home\/?attribute_tipologia=A","custom_data":{"content_name":"Scritta decorativa in legno Love \/ Home","content_ids":"[\"wc_post_id_6563\"]","content_type":"product_group","contents":"[{\"id\":\"wc_post_id_6563\",\"quantity\":1}]","content_category":"Home decor","value":"17.50","currency":"EURO"},"user_data":{"client_ip_address":"2a03:2880:22ff:10::face:b00c","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.13198s
+
+02-14-2022 @ 00:33:14 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AlE8BT-U4-EGG5XB96L3--h"}
+
+02-14-2022 @ 00:36:21 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=l039angolorosa-cagliari-5fb9677aba0ea
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body:
+duration: 0.11869s
+
+02-14-2022 @ 00:36:21 - Response
+code: 200
+message: OK
+body: {"business":{"name":"L'angolo rosa - Cagliari"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+02-14-2022 @ 00:39:28 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644795568,"event_id":"7ab58585-f457-4de9-977d-e9e712eeafdc","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/mappamondo-bianco-e-oro-con-base-in-metallo\/?add-to-cart=4830","custom_data":{"content_ids":"[\"wc_post_id_4830\"]","content_name":"[\"Attaccapanni in legno con 4 ganci in ottone\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_4830\",\"quantity\":1}]","value":"18.50","currency":"EURO"},"user_data":{"client_ip_address":"157.55.39.120","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.11893s
+
+02-14-2022 @ 00:39:28 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AXCCGVuzEBKIZj9Ucy3SM8O"}
+
+02-14-2022 @ 00:39:30 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644795570,"event_id":"a7a8ee2a-ca8d-4539-bd09-4e5d62c351a4","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/mappamondo-bianco-e-oro-con-base-in-metallo\/?add-to-cart=4830","custom_data":{"content_name":"Mappamondo bianco e oro con base in metallo","content_ids":"[\"wc_post_id_6348\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_6348\",\"quantity\":1}]","content_category":"Oggettistica","value":"52.90","currency":"EURO"},"user_data":{"client_ip_address":"157.55.39.120","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.14847s
+
+02-14-2022 @ 00:39:30 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AVIldxaaKXP-i4TVrE0eutR"}
+
+02-14-2022 @ 00:41:35 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/407979230232896/events
+user-agent: Facebook-for-WooCommerce/2.6.9 (WooCommerce/6.2.0; WordPress/5.9)
+body: {"data":[{"action_source":"website","event_time":1644795695,"event_id":"23e67b49-159a-4aa4-bd5d-adafe81368d6","event_source_url":"https:\/\/www.langolorosacagliari.com\/prodotto\/attaccapanni-in-legno-con-3-ganci-in-metallo\/","custom_data":{"content_name":"Attaccapanni in legno con 3 ganci in metallo.","content_ids":"[\"wc_post_id_3670\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_3670\",\"quantity\":1}]","content_category":"Oggettistica","value":"5.80","currency":"EURO"},"user_data":{"client_ip_address":"40.77.167.30","client_user_agent":"Mozilla\/5.0 (compatible; bingbot\/2.0; +http:\/\/www.bing.com\/bingbot.htm)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-6.2.0-2.6.9"}
+duration: 0.10595s
+
+02-14-2022 @ 00:41:35 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2IeskOQceo3Oyy-wF0Xtsk"}
+
+02-14-2022 @ 00:51:01 - Facebook is requesting the product feed.
+02-14-2022 @ 00:57:08 - Facebook is requesting the product feed.
